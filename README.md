@@ -22,7 +22,7 @@ no's zu nuo-suzt ınvor sun. vuc o'ousr nuos ıngvoz e▼
 
 下图是一个简单的例子：
 
-<img src="uonı/ıugno__Nortu-us-zuro-uch.png" style="width: 28%;"/>
+<img src="uonı/ıugno__Nortu-us-zuro-uch.png" style="width: 280px;"/>
 
 zuro和uch合成zuro uch，而Nortu、us、zuro uch又一起合成整句话。像这样一张图中的每一个节点，我们都可以当作一个语块。语块不是随心所欲的，必须有一定的逻辑关系，比如我们不能说us zuro是一个语块。
 
