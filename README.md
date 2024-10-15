@@ -59,3 +59,89 @@ zuro和uch合成zuro uch，而Nortu、us、zuro uch又一起合成整句话。�
 这些分类有一定的模糊性和边界情况，有时候你可能觉得一个语块是这种块或者那种块都说得通（比如zu nuo-suzt的zu，可以理解为名块/形容块），这很正常：只要说得通，那么就算对，只要最终你能正确地理解语义和逻辑就行。
 
 有时候自由语中会用“xx词”之类的概念，比如名词，指的是通常作为名块的词。自由语中动词、形容词、副词、介词、连词、其他词同理。
+
+### 3. 词的基本组合规则
+
+自由语中，如果两个词能有效地组成语块，通常是符合一定的规则的。比如Nortu onusg▼，其中Nortu和onusg都是名词，那么正常来说应该前面的名词修饰后面的名词，重心在后者，最终整体还是名块。
+
+> Nortu onusg n. 自由语语法
+
+这样的规则下面将写为n. + n. ⇒ n.，其中加粗的部分是重心，被其他部分修饰，最后整体的属性和重心部分的属性一致（重心是名块，最后整体也是名块）。
+
+如果没有重心，如下面的o. + o. ⇒ o.，组成部分之间没有修饰关系（理解成相互修饰也行）。
+
+注意，这不是什么万能公式，不代表随便两个词都能组合成语块，还是得符合正常的语义的，比如Nortu u就不是一个正常的语块。
+
+自由语中词与词的一些基础的组合规则如下：
+
+n. + n. ⇒ n.，比如Nortu onusg、unzov uzgo▼。
+
+> unzov uzgo n. 手机游戏
+
+n. + v. ⇒ v.，其中名词是动词的目标对象，比如ıo nıgur▼、suzt outr▼。
+
+v. + n. ⇒ n.，其中名词是动词的行为主体，比如ucur nız▼、vıgur zov▼。
+
+v. + v. ⇒ v.，和英语/中文的顺序是相反的（中文说“喜欢睡觉”，在自由语中则是“睡觉喜欢”），比如nozr ucur▼、ursgor sucur▼。
+
+> ıo nıgur v. 等你
+>
+> suzt outr v. 找书
+>
+> ucur nız n. (对什么)喜欢的人
+>
+> vıgur zov n. 飞鸟
+>
+> nozr ucur v. 喜欢睡觉
+>
+> ursgor sucur v. 尝试运动
+
+n. + o. ⇒ o.，比如uoch ıoz▼、uro ıngız▼。
+
+o. + n. ⇒ n.，比如ıoz suzt▼、zurch zosug▼。
+
+v. + o. ⇒ o.，比如unır xuız▼、ono ıougı▼。
+
+o. + o. ⇒ o.，其中两个形容词地位平等，比如onuz nunch▼、rougn nunz▼。
+
+> uoch ıoz o. 运气好
+>
+> uro ıngız o. 水(有些/比较)冷的
+>
+> ıoz suzt n. 好书
+>
+> zurch zosug n. 奇怪的问题
+>
+> unır xuız o. 跑步快的
+>
+> ono ıougı o. 太阳(光)明亮的
+>
+> onuz nunch o. 美好而舒服的
+>
+> rougn nunz o. 困难且不好的
+
+n. + u. ⇒ n.，比如nıdun nudu▼、oundt ungu▼，或许较为费解，后面在副块部分会具体解释。
+
+o. + u. ⇒ o.，比如ıoz uch、rougn ıosu▼。
+
+v. + u. ⇒ v.，比如ucur uch、nozr unnu▼。
+
+> nıdun nudu n. 还只是小孩
+>
+> oundt ungu n. 只是下属
+>
+> rougn ıosu o. 太难的
+>
+> nozr unnu v. 好好睡觉
+
+介词、连词、其他词的情况较为复杂，后面将在其对应语块的部分具体展开。
+
+一些规则的核心部分（谁修饰谁、谁是重心、最后整体会是什么属性）一定程度上是通用的，比如ıougu nozr sou▼中，ıougu nozr▼是动块，修饰后面的动块sou，最后整体也是动块，重心在sou上，这大致符合v. + v. ⇒ v.。
+
+> ıougu nozr v. 在白天睡觉
+>
+> ıougu nozr sou v. 想在白天睡觉
+
+### 4. 补充
+
+语块这个概念对其他语言也适用。以英语为例：replay可以看作是re这个副块修饰play这个动块，最后replay整个是动块；play again可以看作是again这个副块修饰play这个动块，最后play again整个是动块。前者是语素（morpheme）组成词，后者是词组成短语，按传统的语言学会把这两种组成的过程分成两套系统，但其实它们是有很多共通之处的，语块便是着眼于这种共通之处。
