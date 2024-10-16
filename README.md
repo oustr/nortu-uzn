@@ -219,3 +219,31 @@ no nızn | 车肯定是属于我的
 no ox nızn | 车不一定属于我，但是和我有关联（比如是我正在坐的车），我可以用“我的”来表达出这种关联
 
 形如no ox xxx最典型的用法是用于那些比当事人更大的概念（而且非常确信后者并不是自己的所有物），如no ox urzon（我乘坐的列车）、no ox uzron（我来自的/身份所在的/当前所在的国家）、no ox und（我所信仰的神）。注意这些并不一定代表这个概念拥有当事人、当事人归属于这个概念（比如no ox uzron不代表我一定是这个国家国籍的人，可能只是当前居留的、自己在几个选项中选择的等等）。形如no ox xxx这样的语块中，ox修饰xxx，no修饰ox xxx。
+
+### 4. 组合规则
+
+一般的两个名词在一起遵循n. + n. ⇒ n.，而多于两个名词直接连在一起的话存在歧义，比如sougn ourug nuın，你不知道是sougn ourug+nuın（公众权利的法律）还是sougn+ourug nuın（公众的权利法）。
+
+为了解决歧义需要明显区分成两部分名块，有多种方法：
+
+- 中间加o（o读/o/，纯粹用于切分语法块），如sougn o ourug nuın（优先组合ourug nuın）或sougn ourug o nuın（优先组合sougn ourug），最后组合o这里。
+
+- 用ot（相当于英语of，具体到介块部分会详细讲），如nuın ot sougn ourug（优先组合sougn ourug）或ourug nuın ot sougn（优先组合ourug nuın）。
+
+- 把需要优先组合的部分加上“-”变成词，如sougn ourug-nuın或sougn-ourug nuın。
+
+之前所讲的数值、人称、这/那都可以修饰后面的名词，而这三者可以同时使用，而且原则上这三者之间不会有直接的修饰关系（如4 no cut中4不修饰no），具体组合规则是优先组合右边，如no ıut 4 cut中，4修饰cut，ıut修饰4 cut，no修饰ıut 4 cut。（或者你也可以看成no ıut 4整体组成了一个如同形容块的语块，共同修饰cut）
+
+数值、人称、这/那这三者任何先后顺序都语法正确，这意味着no ıut 4 cut、no 4 ıut cut、ıut no 4 cut、ıut 4 no cut、4 no ıut cut、4 ıut no cut都对（而且意思一样）。
+
+不过注意，no ox xxx用法的顺序是固定的。这里ox一般不能放no前面，是因为no xxx优先组合，而这部分的意思表明了xxx是属于自己的；如果变成了ox no xxx，意思就变成了“那属于我的xxx”。 
+
+其他不需要纠结太多，能正确表达想表达的意思、不产生歧义即可。
+
+### 5. 转化为名词
+
+对动词/形容词xxx而言，xxxud转为名词且基本意义不变（读音则后面连着加/aı/），如ucur（读/a ca ru/）变为ucurud（读/a ca raı/）、nev（读/ne vu/）变为nevud（读/ne vaı/）。
+
+如果原本的词以u结尾，那么直接后面加d变成ud，如uncu变为uncud。
+
+如果xxxud是已经存在其他意思的词，则使用xxx-ud；如果两个xxx变成xxxud会长得一样（如noz和nozu，都可能变为nozud），那么两个都用xxx-ud（noz变为noz-ud、nozu变为nozu-ud）。
