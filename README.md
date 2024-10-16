@@ -325,3 +325,76 @@ nıvır（自）本来就不会有宾，如果它有宾了就肯定不是自了�
 ### 5. 转化为动词/动块
 
 对名词/形容词xxx而言，xxx unr（此时实质是动块）是将xxx变成仿佛动词一样的常见方法，如uzı unr、nız unr。此外，xxx-ur可将xxx转为动词，意思是“把什么变成xxx这样”，如xuız-ur、ug-ur。
+
+## 四、形容块
+
+### 1. o. + v.(核心) ⇒ v.
+
+这里o.有两种情况：
+
+- 动词为感觉（ozur/novur）、是（ovr/uor）、变化（nır/nınr/nunr/onr）、好恶（sou/ongur/suxur）时，o.实质仍然是o.，如zurch ozur、ıozr nunr。
+
+- 其他动词（如ucur/nıgur/von等）的话，o.实质是n.，意思是“怎样的事物/事情/状态”，如zuro von、ıuxo nızur。
+
+对于第二种情况的动词，如果希望前面的o.只是单纯表达本身的意思（不过这种情况似乎很少），应该讲o.变为xxxud形式。
+
+### 2. 转化为形容块
+
+见介块部分“的”。
+
+## 五、副块
+
+### 1. 副词位置
+
+以ungu为例，将其添加进no's ut ugır zuch则会有下列情况：
+
+例子 | ungu修饰的部分 | 隐含的意思
+:- | :- | :-
+no's ut ugır zuch ungu | ut ugır zuch | 只是有一些可能，不是绝对能做到
+no's ut ugır ungu zuch | ut ugır | 只是能实现，不一定懂背后的原理
+no's ut ungu ugır zuch | ut | 只能做到那一个，其他的不一定会
+no's ungu ut ugır zuch | ut ugır zuch | （和第一种一样）
+no ungu's ut ugır zuch | no | 不费事，我一个人/我这样的人就能实现
+ungu no's ut ugır zuch | no's ut ugır zuch | 不过是“我能实现它”这么个小事而已
+
+由此可见，副词通常修饰它前面的东西；如果它前面就是us/xus/ons，则修饰它后面所有的内容；如果它在整个句子最前面，则修饰整个句子。
+
+某种程度来说，副词是比较自由的，如果把副词删掉，语义会不一样甚至出问题，但整个结构仍然是语法正确的。
+
+### 2. 常见搭配
+
+自由语通过各种副词（如下表的sun、su等）的搭配组合，来实现很多语言中只能词形变化/变位才能做到的事情：
+
+形式 | 意思 | 例子 | 大致相当于英语的...
+:- | :- | :- | :-
+v. sun | 正在做 | nozr sun | be doing sth
+v. su | 做（完）了 | unr su | have done sth
+v. ov | 之前做现在没做了 | ınvor ov | did sth
+v. ong | 将会做 | uıgr ong | will do sth
+v. os | 准备做/要做 | nozr os | be going to do sth
+v.'e（= v. er） | 做吧（要求/祈使） | vıgur'e | 祈使句
+v. ux | 不做 | ucur ux | don't do sth
+v. woz | 被做 | zunr woz | be done sth
+o. or | 更怎样 | moch or | ~er（形容词）
+o. vuı | 最怎样 | zuro vuı | ~est（形容词）
+o. ung | 不怎样 | zurch ung | not ~（形容词）
+
+而实际上的用法比表格中更加宽泛，很多并非只能用于v.或o.，如no's uozodt sun、nev su、xuız'e。也可以多个副词，如nozr sun ov，整个是动块，sun修饰nozr，ov修饰nozr sun。
+
+副词如果在句尾，那么也可以放到us/xus后（没有us/xus就放到句首），如no's sovur sun和no's sun sovur是一样的。
+
+注：xxx woz用得较少，使用得更多的是xxx-uz（等同于xxx woz su）。
+
+### 3. 'u
+
+形如no's songır'u sug ıo's ucur，形式上no's songır被加上'u后整个作为副块，修饰sug ıo's ucur这个分句；也可以理解为no's xxx songır，而xxx是sug ıo's ucur太长了，于是通过这种方式放到整个句子最后。
+
+### 4. n. + uch/voch/ıosu/vutu...
+
+名词xxx加上表程度的副词，比如xxx uch，那么实质上xxx将像形容词一样，整体也变成形容块，修饰后面的东西。比如，如果我们看到一个文本，长得或者行文风格很像自由语，我们可以说zu unx's Nortu uch。
+
+### 5. 转化为副块
+
+xxx nu可以将xxx（通常只是一个词）转化为副块，这种是修饰自己后面的。比如unır xuız，如果xuız要转化为副块来修饰unır，那么将变成xuız nu unır（所以一般用unır xuız更方便）。
+
+副词一般修饰前面，而由多个词组成的副块一般修饰后面。
