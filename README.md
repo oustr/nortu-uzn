@@ -290,3 +290,38 @@ ud 分句 | 放在整个大句子的最后 | ıoz o'd ıo's ıogur vozıx（xxx'
 nugor su | （我）知道了
 no's ucur | 我喜欢（它）
 ushr sun | （天/it）正在下雨
+
+### 3. uv
+
+形如no'uv vort ucur（xxx'uv = xxx uv），其中uv仅用于形式上表明自己前面的（也就是这里的no）是主，本身没有更多的意思（和us有点像），no'uv修饰vort ucur，对vort ucur进行补充解释（是谁喜欢花），no's vort ucur或no'uv vort ucur整体是动块（因为vort ucur是核心）。
+
+到现在就有三种“动作加上动作的主/宾”，这三种的区别是：
+
+形式 | 例子 | 性质
+:- | :- | :-
+宾 v. 主 | vort ucur no | vort ucur修饰no，整个是名块（属于①那种分句）
+主's 宾 v. | no's vort ucur | 整个句子可以被看作动块（属于②那种分句：n.'s v.）
+主'uv 宾 v. | no'uv vort ucur | no'uv修饰vort ucur，整个是动块（属于①那种分句）
+
+形如xxx'uv v.（v.前面不能再加宾）的用法较为特殊，整体意思是“xxx所v.的”，当作形容块更容易理解，具体如下：
+
+形式 | 例子 | 性质
+:- | :- | :-
+主'uv v. 宾 | no'uv ucur vort | no'uv ucur修饰vort，整个是名块（属于①那种分句）
+宾's 主'uv v. | zu vort's no'uv ucur | 整个句子可以被看作动块（属于②那种分句：n.'s o.）
+
+> 更多例子：
+>
+> nougn ounr no n. 使用电脑的我；no's nougn ounr 我使用电脑；no'uv nougn ounr v. 我使用电脑；no'uv ounr nougn n. 我使用的电脑；zu nougn's no'uv ounr 这电脑是我使用的。
+>
+> urvo nonr cut n. 吃鱼的猫；cut's urvo nonr 猫吃鱼；cut'uv urvo nonr v. 猫吃鱼；cut'uv nonr urvo n. 猫吃的鱼；zu urvo's cut'uv nonr 这条鱼是猫吃的。
+
+### 4. 自/他
+
+有的动词，本身意思是“自己做”，也就是【自】（可理解为“自动词/不及物动词”），如no's nıvır os的nıvır，但有时也想用于“对其他对象怎样做”【他】（可理解为“他动词/及物动词”）。这种情况通常有一套对应的动词，也就是xxx（自）对应xxxur（他），如nıvır对应nıvırur。
+
+nıvır（自）本来就不会有宾，如果它有宾了就肯定不是自了，所以xxx nıvırur完全可以直接用xxx nıvır。但有歧义的时候，比如单独用nıvırur xxx，就不能变成nıvır xxx，这两者意思完全不一样。
+
+### 5. 转化为动词/动块
+
+对名词/形容词xxx而言，xxx unr（此时实质是动块）是将xxx变成仿佛动词一样的常见方法，如uzı unr、nız unr。此外，xxx-ur可将xxx转为动词，意思是“把什么变成xxx这样”，如xuız-ur、ug-ur。
