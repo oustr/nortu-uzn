@@ -247,3 +247,46 @@ no ox nızn | 车不一定属于我，但是和我有关联（比如是我正在
 如果原本的词以u结尾，那么直接后面加d变成ud，如uncu变为uncud。
 
 如果xxxud是已经存在其他意思的词，则使用xxx-ud；如果两个xxx变成xxxud会长得一样（如noz和nozu，都可能变为nozud），那么两个都用xxx-ud（noz变为noz-ud、nozu变为nozu-ud）。
+
+## 三、动块
+
+### 1. 主/宾
+
+谁做的，这个谁就是【主】（行为主体）；做到谁身上，这个谁就是【宾】（目标对象）。
+
+形如vort ucur no，其中vort是宾（喜欢的是谁），no是主（是谁喜欢）。vort修饰ucur，对ucur的具体对象进行补充解释，vort ucur整体是动块（因为ucur是核心）；vort ucur修饰no，对no进行补充解释（是怎样的我），vort ucur no整体是名块（因为no是核心），意思是“喜欢花的我”。
+
+### 2. 分句
+
+【分句】有两种。第一种是不包含us/xus/ons的名块/动块/形容块/副块（①）。而部分①（即下面的n./v./o.）结合us/xus/ons后可以按以下形式得到第二种分句（②）：
+
+形式 | 含义 | 例子
+:- | :- | :-
+n.'s n.（xxx's = xxx us） | 前者是后者 | no's nusordt
+n.'s v. | n.做/进行v. | no's nozr sun
+n.'s o. | n.是o.这样的 | no's nev uch
+n. o'n.（o'xxx = ons xxx） | 后者是前者 | urdt o'ut sucur vozu nız
+o. o'n.  | n.是o.这样的 | crugn o'uro uınr
+
+us是后面的修饰前面的，ons是前面的修饰后面的（这里“修饰”只是单纯语义上的，和语块组合无关）。n./o. o'n.相对于n.'s n./o.只是顺序有区别，意思都是一样的，不过通常都用n.'s n./o.，当这n./o.部分实在比较长的时候才用n./o. o'n.。
+
+所有这些us也可以改用xus，仍然是分句，但整个的意思加一层否定，如no xus nusordt（xxx xus没有缩写）。xxx xus ...可以省略xxx，如xus nugor、xus no unzov。
+
+对于问具体内容的疑问句（英语中叫“特殊疑问句”），自由语中要把问的部分提到最前，其他不变，如sug ıo's ucur?（本来语序是ıo's sug ucur）、zoug'z ıo's unır?（本来语序是ıo's zoug'z unır）
+
+有时候可能想表达的意思比较复杂，进而出现嵌套的情况。自由语中有两种方法将①或②转化为名块，然后可以替换②中的n.（注意位置有限制，避免歧义/结构过于复杂）：
+
+形式 | 位置 | 例子
+:- | :- | :-
+ud 分句 | 放在整个大句子的最后 | ıoz o'd ıo's ıogur vozıx（xxx'd = ud，o'd = ons ud）
+分句 xu | 放在整个大句子的最前 | ouc's nuız su, xu's uzto
+
+在②中，xus的前面也可以是（同样不含us或ons的）v.或者o.，不过性质上会自动变得和n.一样，如vosor xuız's zuro ung，这里vosor xuız形式上是动块，但实质上和vosor xuız xu一样。
+
+分句是说话/行文中的基础部件，可以大致说我们说/写的一切（包括标题）都是一个或多个分句，如ıoz, sucur er, no's ucur uch这句话，其实就是ıoz、sucur er、no's ucur uch三个分句。此外，自由语中通常不一定需要那么多“完整”的内容，如下面这些已经足够完整：
+
+例子 | 意思
+:- | :-
+nugor su | （我）知道了
+no's ucur | 我喜欢（它）
+ushr sun | （天/it）正在下雨
