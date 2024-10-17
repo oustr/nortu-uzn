@@ -405,6 +405,60 @@ xxx nu可以将xxx（通常只是一个词）转化为副块，这种是修饰�
 
 副词一般修饰前面，而由多个词组成的副块一般修饰后面。
 
+## 六、介块
+
+### 1. 的
+
+下面几种整体都是形容块，本身也是将xxx转化为形容块的常见做法。
+
+形式 | 意思 | 修饰前/后面的 | 例子
+:- | :- | :- | :-
+xxx nı | xxx这样的 | 后面 | uzgo nı nonu
+xxx'uı（= xxx uı） | 属于xxx的 | 后面 | ouc voır'uı urch
+ot xxx | 属于xxx的 | 前面 | urch ot ouc voır
+
+### 2. 来/去/在
+
+下面几种整体都是副块。
+
+形式 | 意思 | 修饰前/后面的 | 例子
+:- | :- | :- | :-
+xxx'st（= xxx ust） | 去/对于xxx | 后面 | unov'st vıgur
+xxx'v（= xxx onv） | 来自xxx | 后面 | ıogıru'v unzgur
+X u'Y（= X uns Y） | 从X到Y | 后面 | uzgun u'uvno nozr
+xxx'z（= xxx uz） | 在xxx | 后面 | xout'z unzov zor
+
+有的动词会涉及两个宾，则可以用到ust和uns来实现，Y'st X v.等价于X u'Y v.，比如：
+
+例子 | 意思
+:- | :-
+duzts'st nonro ıunr = nonro u'duzts ıunr | 把食物给鸭子们
+vort'st ouıst uıvur = ouıst u'vort uıvur | 把水果换成花
+
+其中Y'st X v.中X可以省略，如duzts'st ıunr（给到鸭子们那里），但X省略时ust不能省略，否则意思完全变了，如duzts ıunr（把鸭子给出去）意思就完全不同。
+
+人称词和ust有一些缩写，如no'st = non、ıo'st = yon、zo'st = zon。
+
+### 3. 其他介词
+
+下面几种整体都是副块。
+
+形式 | 意思 | 修饰前/后面的 | 例子
+:- | :- | :- | :-
+xxx ıon | 相比xxx而言 | 后面 | urvuz ıon ıozr
+xxx ıuz | 像xxx一样 | 后面 | vort ıuz zıngr
+xxx'x（= xxx ıux） | 关于xxx | 后面 | ıogn'x usur
+xxx ıov | （ıov像英语的off） | 后面 | uızon ıov vıgur
+xxx ıonz | （ıov像英语的beyond） | 后面 | zıugo ıonz ugzur
+
+之前讲过的uv、nu事实上也是类似这样的介词。
+
+### 4. 转化为形容块
+
+有时我们想要“来自xxx的”来修饰一个名块，这时不能仅仅用xxx'v，需要转为xxx'v nı，才能整体作为一个形容块修饰名块，如ıuv zogro'v nı ıo。上面表格所有整体变为副块的，都可以通过加nı来这样做。
+
+不过，形如ıo's ıuv zogro'v不需要再加nı，此时不加nı也已经足够判断了，这里ıuv zogro'v形式上是副块，实质上已经是形容块，整体是n.'s o.的结构。其他类似的介词同理。
+
 ---
 
 未完待续...
