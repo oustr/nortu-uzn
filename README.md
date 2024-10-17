@@ -459,6 +459,42 @@ xxx ıonz | （ıov像英语的beyond） | 后面 | zıugo ıonz ugzur
 
 不过，形如ıo's ıuv zogro'v不需要再加nı，此时不加nı也已经足够判断了，这里ıuv zogro'v形式上是副块，实质上已经是形容块，整体是n.'s o.的结构。其他类似的介词同理。
 
----
+## 七、连块
 
-未完待续...
+### 1. 和/或/而
+
+&nbsp; | 并且 | 或者 | 而（两者对立/相反） | 而（两者什么关系都可以）
+:- | :- | :- | :- | :-
+**连接两个词** | oı | ur | wos | &nbsp;	
+**连接两个①那种分句** | oıu | uru | wosu | &nbsp;	
+**连接两个①/②那种分句** | oı'nu | ur'nu | wos'nu | ugu
+
+以wos一列举例：
+
+第一种比如nonux wos vugız nunst，这里nonux和vugız一个好一个坏对立而并存，而既然是wos那么一定是nonux和vugız，而不是nonux和vugız nunst（这不是一个词了），最终nonux wos vugız的属性和nonux、vugız一样，都是形容块。
+
+第二种比如ousu ucur wosu uncur xun，既然用了wosu那么一般不再是wos那样仅仅连接两个词，根据语义判断这里是ouso ucur和uncur xun，都是动块，最终整体也是动块。
+
+第三种比如no's ousu ucur, wos'nu uncur xun，这连接的比第二种就更大了。
+
+### 2. 关联词
+
+ongu、unzu、onzu、sudu等词有三种情况，以ongu为例：
+
+形式 | 意思 | 例子
+:- | :- | :-
+分句 ongu 分句（ongu是连块） | 因为后面，所以前面 | zo's nuv uch ongu nuız su
+分句 ongu'n 分句（ongu'n是连块） | 因为前面，所以后面 | nuız su ongu'n zo's nuv uch
+xxx ongu'z（ongu'z是介块） | 因为xxx | ıo ongu'z nev
+
+上面的ongu'n、ongu'z是不可分割的整体，看作一个词也说得过去。
+
+### 3. 其他连块
+
+形如“分句 un 分句”，是先后顺序，第一个分句先，第二个分句后，如cots onzhr un zro unr。
+
+## 八、其他块
+
+### 1. 语气词
+
+ıu、e等语气词通常放在句尾，urh、ceh等语气词插在任何地方都可以。去掉语气词通常没有任何影响。
