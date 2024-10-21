@@ -6,6 +6,7 @@ cot | /co te/ | n. 蛋
 cugn | /ca gen/ | n. 认为是对的事情 观点
 cugnr | /ca gen ru/ | v. 认为 认为什么对
 cut | /ca te/ | n. 猫
+e | /e/ | c. 诶 呢
 Engısh | /en gı shı/ | n. 英语
 enz | /en z/ | n. 黄色
 et | /e de/ | c. (表示关心/打招呼)
@@ -26,10 +27,10 @@ et | /e de/ | c. (表示关心/打招呼)
 ıo | /yo/ | n. 你 o. 你的
 ıogır | /yo gı ru/ | v. 教 teach
 ıogırdt | /yo gı ru qen/ | n. 教的人 教师
-ıogon | /yo gong/ | n. 教育 education
+ıogon | /yo gen/ | n. 教育 education
 ıogur | /yo ga ru/ | v. 相信
 ıo's | /yae/ | = ıo us
-ıosun | /yo sun/ | n. 酒
+ıosun | /yo sang/ | n. 酒
 ıoug | /yu ge/ | n. 光
 ıougı | /yu gı/ | n. (自己)发亮的 发光的
 ıouz | /yu z/ | o. 距离远的
@@ -43,6 +44,7 @@ et | /e de/ | c. (表示关心/打招呼)
 ıunordt | /yu no ru qen/ | n. 医生
 ıunoro | /yu no ro/ | n. 医学
 ıunoru | /yu no ra/ | n. 医院 诊所 医疗机构
+ıuv | /ya vu/ | o. 非自己的 其他的 外的
 ıuzr | /yu z ru/ | v. 设置 设定
 moch | /mo hı/ | o. 暖热的 热的
 nev | /ne vu/ | o. 开心 快乐
@@ -51,15 +53,19 @@ nıgr | /nı ge ru/ | v. 停止
 nıgur | /nı ga ru/ | v. 等 等待
 nınr | /nın ru/ | v. 使得变成什么
 nınsh | /nın shı/ | o. 残酷 残忍
+nıon | /nı ong/ | n. 小勺子 spoon
 nır | /nı ru/ | v. (自己)变成什么
 nıs | /nı s/ | c. 除以
 nısgo | /nı s go/ | n. 策略 战略
-nıug | /nyu ge/ | o. 水平/实力不行 菜
-nıur | /nya ru/ | v. 杀
+nıug | /nıu ge/ | o. 水平/实力不行 菜
+nıur | /nı a ru/ | v. 杀
 nız | /nı z/ | n. 人 者
-nızn | /nı zın/ | n. 车 汽车
+nızgu | /nı z ga/ | o. 满足的 content satisfied
+nızgur | /nı z ga ru/ | v. 满足 satisfy
+nızn | /nı zen/ | n. 车 汽车
 nızun | /nı zang/ | n. 午夜后 三更半夜 凌晨
 no | /no/ | n. 我 o. 我的
+noct | /no ce/ | n. 石头 石
 nogıt | /no gı te/ | n. 物质
 nogıtu | /no gı ta/ | n. 化学
 nogıu | /no qa/ | n. 标记 标注 备注
@@ -67,13 +73,14 @@ nogıur | /no qa ru/ | v. 标记 标注 备注
 nogur | /no ga ru/ | v. 研究 钻研
 noı | /no ı/ | n. 黑色
 noır | /no ı ru/ | n. 歌 唱的歌
-noıur | /no ı a ru/ | v. promise 保证 承诺
+noıur | /no ya ru/ | v. promise 保证 承诺
 non | /nong/ | = no ust
 nong | /nong ge/ | o. 长
 nongzh | /nong ge dz/ | n. 长度 长短
 nonı | /no nı/ | n. 昏暗
 nonr | /nong ru/ | v. 食用 吃+喝
 nonro | /nong ro/ | n. 食物
+norg | /no ru ge/ | n. 河
 Nortu | /no ru ts/ | n. 自由语
 norzh | /no ru dz/ | n. 北
 no's | /nae/ | = no us
@@ -86,6 +93,7 @@ novuz | /no va z/ | n. 今天
 nox | /no xu/ | n. 力 (力学的)力
 noxro | /no xu ro/ | n. 军队 部队
 noxug | /no xa ge/ | n. 力量
+noz | /no z/ | o. 当前的 current
 nozr | /no z ru/ | v. 睡 睡觉
 nozun | /no zang/ | n. 标准 standard
 nu | /na/ | z. ……地
@@ -98,14 +106,15 @@ nugoız | /na go ı z/ | n. 物理 physics
 nugr | /na ge ru/ | v. 禁止
 nugsu | /na ge sa/ | u. 竟然 没想到
 nugsug | /na ge sa ge/ | n. 没想到/意料之外的事情/事物
-nuı | /na ı/ | o. 距离近的
+nuı | /naı/ | o. 距离近的
 nuıg | /naı ge/ | o. 时间晚的
-nuıgı | /na ı gı/ | n. 后悔
-nuıgır | /na ı gı ru/ | v. 后悔
-nuıgn | /na ı gen/ | n. 危险
-nuıgnr | /na ı gen ru/ | v. endanger 置什么于危险之中
-nuıgnz | /na ı gen z/ | o. 处于危险之中
-nuır | /na ı ru/ | v. 唱歌 唱
+nuıgı | /naı gı/ | n. 后悔
+nuıgır | /naı gı ru/ | v. 后悔
+nuıgn | /naı gen/ | n. 危险
+nuıgnr | /naı gen ru/ | v. endanger 置什么于危险之中
+nuıgnz | /naı gen z/ | o. 处于危险之中
+nuır | /naı ru/ | v. 唱歌 唱
+nuıtu | /na ı ta/ | n. 街道(尤其是城市里两边都有建筑的那种)
 nunıo | /na nıo/ | n. 橘子 橙子 桔子
 nunr | /nang ru/ | v. (自己)变得怎样
 nunst | /nang se/ | n. 蛋糕 cake
@@ -113,6 +122,7 @@ nunz | /nang z/ | o. 不好的 糟糕的 bad
 nunzug | /nang za ge/ | n. 不好的地方 弱点 缺点 劣势 坏处
 nuo | /na o/ | n. 词
 nur | /na ru/ | v. say 说 讲
+nurg | /na ru ge/ | n. 多少 how much/many
 nurıg | /na rı ge/ | n. 言论 话
 nuro | /na ro/ | n. 例子
 nurou | /na ro a/ | u. 比如 例如
@@ -123,22 +133,27 @@ nuv | /na vu/ | o. 难过的 不开心的
 nuzgr | /na z ge ru/ | v. 信任 放心 觉得可靠 trust
 nuzgrı | /na z ge rı/ | o. 值得信任的 令人放心的 可靠的 reliable
 nuzr | /na z ru/ | v. 死亡 死
+oı | /o/ | x. 和
 oıngo | /o ın go/ | n. 苹果
 oız | /o ı z/ | n. 被做什么事情的一方 对象 客体
 oızı | /o ı zı/ | o. 干净的 清洁的
 oızır | /o ı zı ru/ | v. 清洁
+onct | /ong ce/ | n. 坚果 nut
 ongız | /ong gı z/ | o. (体积/体型)大
 ongoz | /ong go z/ | o. 肚子饱的 感到饱腹感的
 ongr | /ong ge ru/ | v. 帮助
+ongue | /ong gıu/ | n. 语言
 ono | /o no/ | n. 太阳
 onr | /ong ru/ | v. 使得怎样
 onst | /ong se/ | n. 东
-onv | /ong vu/ | z. from 来自 从
+onuz | /o na z/ | o. 美好的
+onv | /en vu/ | z. from 来自 从
 onvuz | /ong va z/ | n. 明天
 onz | /ong z/ | c. 加
 onzr | /ong z ru/ | v. 增加 increase
 onzt | /ong ze/ | n. 中午 noon
 orgun | /o ru gen/ | n. 上午 早上
+os | /o s/ | u. going to do 要去 打算要去
 oso | /o so/ | o. (量/程度)大的
 ou | /u/ | z. with 和
 ouc | /u cu/ | n. 我们 o. 我们的
@@ -180,6 +195,7 @@ suc | /sa ts/ | o. (程度)高/强的
 sucur | /sa ca ru/ | v. 尝试 试
 sug | /sa ge/ | n. 什么
 sug's | /sa gae/ | = sug us
+suıc | /saı cu/ | n. 沙子 sand
 suıu | /sa ya/ | n. 交通 traffic
 suno | /sa no/ | n. 声音 响声
 sur | /sa ru/ | v./u. 应该
@@ -200,29 +216,31 @@ uch | /a chı/ | u. 很 非常
 ucug | /a ca ge/ | n. 喜好的事物/东西 兴趣 爱好
 ucur | /a ca ru/ | v. 喜欢
 ug | /a ge/ | n. 上 上面
-ugıo | /a gyo/ | n. 顶部 top
+ugıo | /a gıo/ | n. 顶部 top
 ugıx | /a gı xu/ | o. 疼痛的
 ugo | /a go/ | n. (外部的)上表面
 ugon | /a gen/ | n. (内部的)上表面 ceiling
-uıg | /a ı ge/ | n. 键 key 按键 button 按钮
-uıgo | /a ı go/ | n. 符号 记号
-uıgon | /a ı gen/ | n. being safe 安全 处于安全之中
-uıgonı | /u ı go nı/ | o. 对别人是安全的
-uıgonz | /a ı gen z/ | o. (自己)处于安全之中
+uıc | /aı ts/ | n. 另一个 another
+uıg | /aı ge/ | n. 键 key 按键 button 按钮
+uıgo | /aı go/ | n. 符号 记号
+uıgon | /aı gen/ | n. being safe 安全 处于安全之中
+uıgonı | /aı go nı/ | o. 对别人是安全的
+uıgonz | /aı gen z/ | o. (自己)处于安全之中
 uıgr | /aı ge ru/ | v. 走路 行走 步行
 uınr | /a ın ru/ | v. 喝 drink
-uınro | /aın ro/ | n. 饮品 饮料
+uınro | /a ın ro/ | n. 饮品 饮料
 uınst | /a ın se/ | o. 谨慎的 prudent 小心的 cautious
-uısu | /a ı sa/ | u. gradually 逐渐地 逐步地
-uısug | /a ı sa ge/ | n. 服务 service
-uısur | /a ı sa ru/ | v. 服务
-uız | /a ı z/ | n. 下 下面
+uısu | /aı sa/ | u. gradually 逐渐地 逐步地
+uısug | /aı sa ge/ | n. 服务 service
+uısur | /aı sa ru/ | v. 服务
+uız | /aı z/ | n. 下 下面
 uızı | /aı zı/ | n. id 独一无二的标识号
 uızıo | /aı zıo/ | n. 底部 bottom
-uızıx | /a ı zı xu/ | o. 独一无二的 不重复的 唯一的
-uızo | /a ı zo/ | n. (外部的)下表面
+uızıx | /aı zı xu/ | o. 独一无二的 不重复的 唯一的
+uızo | /aı zo/ | n. (外部的)下表面
 uızon | /aı zen/ | n. (内部的)下表面 地面 floor ground
 uızug | /aı za ge/ | n. 地下 underground
+un | /ang/ | x. (表示发生的先后) 然后 之后 接下来
 uncur | /ang ca ru/ | v. 买
 ung | /ang ge/ | u. 不
 ungr | /ang ge ru/ | v. 改变
@@ -256,7 +274,7 @@ uoctu | /wo cu ta/ | n. 餐厅 餐馆 饭店 restaurant
 uog | /wo ge/ | n. 节点 node
 uogn | /wo gen/ | n. 灰色
 uoı | /wo ı/ | n. 所有 一切
-uoır | /woı ru/ | v. 共享 分享 share
+uoır | /wo ı ru/ | v. 共享 分享 share
 uonug | /wo na ge/ | n. 大巴车 bus
 uor | /wo ru/ | v. 是 ser
 uorır | /wo rı ru/ | v. 维护 使得持续 maintain
@@ -264,6 +282,7 @@ uort | /wo ru te/ | n. 狗 犬
 uour | /wo a ru/ | v. 爱 情感上喜欢
 uovon | /wo vong/ | n. 黑暗 darkness
 uozg | /wo z ge/ | n. job 工作 职业
+ur | /a ru/ | x. 或者 或
 urgro | /a ru ge ro/ | n. 军事 military
 urıg | /a rı ge/ | n. 信仰
 urn | /u ren/ | n. 蓝色
@@ -290,6 +309,7 @@ uzn | /a zen/ | n. 数据 data
 uzno | /a z no/ | n. 云
 uzor | /a zo ru/ | v. 选择 选中 select
 uzorıg | /a zo rı ge/ | n. 选择 已经选了的选择
+uzoro | /a zo ro/ | n. 奶 milk 乳品
 uzoug | /a zo a ge/ | n. 选项 可选项
 uzoux | /a zu xu/ | o. (自己)困/想睡觉
 uzro | /a z ro/ | n. 整体 whole
@@ -298,13 +318,13 @@ uzt | /a ze/ | n. 树
 uzuch | /a za chı/ | n. 城市 城镇
 uzur | /a zu ru/ | v. 住 居住
 'v | /vu/ | = onv
-vıo | /vı o/ | n. 标签 tag
-vıog | /vı o ge/ | n. 冰
+vıo | /vıo/ | n. 标签 tag
+vıog | /vıo ge/ | n. 冰
 vıou | /vıu/ | n. 店铺 商店 store shop
 vıugr | /vı a ge ru/ | v. 令人烦 annoy
 vıugrı | /vı a ge rı/ | o. 烦 annoyed
 vog | /vo ge/ | n. 右
-vogıo | /vo gyo/ | n. 计划 打算 企划 plan
+vogıo | /vo gıo/ | n. 计划 打算 企划 plan
 voıgn | /vo ı gen/ | n. 恐怖 horror terror
 voızt | /vo ı ze/ | o. 水平/实力强
 von | /vong/ | v./u. 自己能 有能力做到
@@ -328,13 +348,14 @@ vungnr | /vang gen ru/ | v. 竞争 compete
 vunr | /vang ru/ | v. 卖出 sell 销售
 vuro | /vu ro/ | n. 味道
 vuz | /va z/ | n. day 天 日
+wos | /wa s/ | x. (并列两个相反/相对的东西)
 xog | /xo ge/ | n. 木
 xon | /xong/ | n. 红色
 xoz | /xo z/ | n. 什么学 什么学术/领域 专业 discipline major
 xuch | /xu hı/ | n. 风
 xuchr | /xu hı ru/ | v. 吹风 起风
 xug | /xa ge/ | n. 左
-xuız | /xa ı z/ | o. 快速的 快的
+xuız | /xaı z/ | o. 快速的 快的
 xuızh | /xaı dz/ | n. 速度
 xun | /xang/ | v./u. 自己不能 做不到 没有能力做到 不会
 xurız | /xa rı z/ | o. 重复的
@@ -346,7 +367,7 @@ zıngr | /zın ge ru/ | v. 跳舞
 zıo | /zıo/ | n. 键 key
 zo | /zo/ | n. 第三人称TA o. 第三人称TA的
 zoı | /zo ı/ | n. 植株 herb 草
-zon | /zen/ | = zo ust
+zon | /zong/ | = zo ust
 Zongn | /zong gen/ | n. 中文 汉语
 zos | /zo s/ | n. 第三人称TA们 o. 第三人称TA们的
 zo's | /zae/ | = zo us
@@ -361,12 +382,12 @@ zox | /zo xu/ | o. 基础的 基本的 basic
 zoxug | /zo xa ge/ | n. 基础
 zro | /z ro/ | n. 火
 zrogn | /z ro gen/ | n. 飞行载具 飞行器 飞机 plane aircraft
-zuc | /za rs/ | c. 减
+zuc | /za ts/ | c. 减
 zuch | /za hı/ | o. 可能的 possible
 zucr | /za ts ru/ | v. 减少 decrease
 zug | /za ge/ | n. bug 问题 错误
-zuın | /zaın/ | n. 设计 design
-zuınr | /zaın ru/ | v. 设计
+zuın | /za ın/ | n. 设计 design
+zuınr | /za ın ru/ | v. 设计
 zung | /zang ge/ | o. 不可能的 可能性为零的
 zunr | /zang ru/ | v. injure wound 造成身体伤害 伤害 损害
 zunst | /zang se/ | n. 森林
@@ -375,3 +396,4 @@ zuot | /za o te/ | o. 独自的 一个人的
 zur | /za ru/ | v. there be 有 存在
 zurch | /zu ru hı/ | o. 奇怪的
 zuro | /zu ro/ | o. 简单
+zursh | /za ru shı/ | o. 感到抱歉 不好意思 sorry 对不起
