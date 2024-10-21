@@ -6,5 +6,6 @@
 
 任何有关自由语的问题都可以提issue或私聊~
 
-- [自由语语法基础](onusg%20zoxug.md)
-- [自由语基础词汇表](zox%20nuos.md)
+- [语法基础](onusg%20zoxug.md)
+- [基础词汇表](zox%20nuos.md)
+- [部分问题回复](zosug%20ursu.md)
