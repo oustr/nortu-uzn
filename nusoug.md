@@ -56,6 +56,8 @@ Nortu Pronunciation | IPA | Sounds like...
 
 But these consonants alone can also form a valid syllable:
 
+> Linguistically, they are "[syllabic consonants](https://en.wikipedia.org/wiki/Syllabic_consonant)"
+
 Nortu Pronunciation | IPA | Sounds like...
 | - | - | -
 /s/ | s | 丝 / す
