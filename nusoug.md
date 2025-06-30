@@ -6,7 +6,7 @@
 
 A Nortu sentence example: no's Nortu nusor sun.
 
-And its pronunciation: /nae no ru ts na so ru sang/.
+And its pronunciation: /nae no ru ts na so ru sang/. It's made of *syllables*, and there's space between each syllable.
 
 ### 1.1. Vowels
 
@@ -28,7 +28,7 @@ Nortu Pronunciation | IPA | Sounds like...
 
 ### 1.2. Consonants
 
-In most cases, a Nortu consonant should be accompanied by a vowel, e.g. "sort" is pronounced /so ru te/ (r → ru, t → te):
+In Nortu pronunciation, a consonant is generally followed by a vowel to form a syllable, e.g. "sort" is pronounced /so ru te/ (r → ru, t → te):
 
 Nortu Pronunciation | IPA | Sounds like...
 | - | - | -
@@ -54,7 +54,7 @@ Nortu Pronunciation | IPA | Sounds like...
 /ya/ | jʌ | 呀 / や / yu in yummy
 /wa/ | wʌ | 哇 / わ / wha in what
 
-But these consonants can also be alone:
+But these consonants alone can also form a valid syllable:
 
 Nortu Pronunciation | IPA | Sounds like...
 | - | - | -
