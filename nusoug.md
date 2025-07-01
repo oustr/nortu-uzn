@@ -2,7 +2,11 @@
 
 ## 1. Pronunciation
 
-📌Features: Sounds like Japanese. Easy pronunciation. Following the stuff in /.../ to pronounce (like English). No "tones" (which exists in Chinese, Vietnamese, Thai...).
+📌Features:
+- Sounds like Japanese.
+- Easy pronunciation.
+- Following the stuff in /.../ to pronounce (like English).
+- No "tones" (which exists in Chinese, Vietnamese, Thai...).
 
 A Nortu sentence example: no's Nortu nusor sun.
 
