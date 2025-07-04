@@ -17,6 +17,6 @@ Welcome to Nortu chat-group 欢迎加入自由语讨论群
 Any question about Nortu? Open an issue or direct message to me 任何有关自由语的问题都可以提issue或私聊~
 
 - [Nortu Tutorial (自由语教程)](nusoug.md)
-- [语法基础 (Language Basics)](onusg%20zoxug.md)
+- [语法基础 (Grammar Basics)](onusg%20zoxug.md)
 - [基础词汇表 (Fundamental Vocabulary)](zox%20nuos.md)
 - [部分问题回复 (Q&A)](zosug%20ursu.md)
