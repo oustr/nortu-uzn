@@ -11,9 +11,9 @@
 no | 's | zu | nuo-suzt | ınvor | sun | vuc | o' | ousr | nuos | ıngvoz | e
 | - | - | - | - | - | - | - | - | - | - | - | -
 
-其中有一些是缩写：'s（完整是us），o'（完整是ons）
+其中有一些是缩写：'s（完整是us），o'（完整是ons）。
 
-用-连起来的，整体视为一个词：nuo-suzt（而如果是nuo suzt，则应该视为两个词）
+用-连起来的，整体视为一个词：nuo-suzt（而如果是nuo suzt，则应该视为两个词）。
 
 ### 2. 语块
 
@@ -21,7 +21,7 @@ no | 's | zu | nuo-suzt | ınvor | sun | vuc | o' | ousr | nuos | ıngvoz | e
 
 <img src="uonı/ıugno__我有一只圆滚滚的猫.png" style="width: 400px;"/>
 
-像这些或大或小的成分（“猫”、“圆滚滚的猫”、“一只圆滚滚的猫”、“我有一只圆滚滚的猫”），可以称为【语块】
+像这些或大或小的成分（“猫”、“圆滚滚的猫”、“一只圆滚滚的猫”、“我有一只圆滚滚的猫”），可以称为【语块】。
 
 自由语也是同样的道理，比如：
 
@@ -41,7 +41,55 @@ no | 's | zu | nuo-suzt | ınvor | sun | vuc | o' | ousr | nuos | ıngvoz | e
 
 自由语词汇表中，也会在词义旁边标注语块性质，比如n.，指的其实是这个词在语境中通常发挥着名块的作用。
 
-### 3. 词的基本组合规则
+### 3. 语块的组合
+
+语言通常有一些自己的套路，自由语也不例外。
+
+n./n. -> n.
+
+语言 | 例子 | 套路
+| - | - | -
+中文 | 手机号码 = 手机 + 号码 | n. = n. + n.(核心)
+英文 | phone number = phone + number | n. = n. + n.(核心)
+自由语 | unzov nogou = unzov + nogou | n. = n. + n.(核心)
+
+n./v. -> n.
+
+语言 | 例子 | 套路
+| - | - | -
+中文 | 飞鸟 = 飞 + 鸟 | n. = v. + n.(核心)
+自由语 | vıgur zov = vıgur zov | n. = v. + n.(核心)
+
+> 英语flying bird把fly变成flying，flying bird = flying + bird 本质上是 n. = o. + n.(核心)
+
+n./v. -> v.
+
+语言 | 例子 | 套路
+| - | - | -
+中文 | 喝水 = 喝 + 水 | v. = v.(核心) + n.
+英文 | drink water = drink + water | v. = v.(核心) + n.
+自由语 | uro uınr = uro + uınr | v. = n. + v.(核心)
+
+v./v. -> v.
+
+语言 | 例子 | 套路
+| - | - | -
+中文 | 喜欢睡觉 | v. = v.(核心) + v.
+自由语 | nozr ucur | v. = v. + v.(核心)
+
+> 英语like sleeping把sleep变成sleeping，like sleeping = like + sleeping 本质上是 v. = v.(核心) + n.
+
+v./u. -> v.
+
+语言 | 例子 | 套路
+| - | - | -
+中文 | 好好睡觉 | v. = u. + v.(核心)
+英文 | sleep well | v. = v.(核心) + u.
+自由语 | nozr unnu | v. = v.(核心) + u.
+
+
+
+
 
 自由语中，如果两个词能有效地组成语块，通常是符合一定的规则的。比如Nortu onusg▼，其中Nortu和onusg都是名词，那么正常来说应该前面的名词修饰后面的名词，重心在后者，最终整体还是名块。
 
